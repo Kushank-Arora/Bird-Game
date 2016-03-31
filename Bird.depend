@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1432307530 source:d:\my documents\codeblock\kanika\bird\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	"Resource.h"
+	<time.h>
+	<math.h>
+
+1432303870 d:\my documents\codeblock\kanika\bird\resource.h
+
+1432307733 source:d:\my documents\codeblock\kanika\bird\resource.rc
+	"resource.h"
+
+1432307733 source:d:\my documents\codeblock\bird\resource.rc
+	"resource.h"
+
+1432303870 d:\my documents\codeblock\bird\resource.h
+
+1432471277 source:d:\my documents\codeblock\bird\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	"Resource.h"
+	<time.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+#ifndef RESOURCE_H_INCLUDED
+#define RESOURCE_H_INCLUDED
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif
+
+#define IDB_BITMAP1 1000
+
+#endif // RESOURCE_H_INCLUDED

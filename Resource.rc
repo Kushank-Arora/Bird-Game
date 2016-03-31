@@ -1,0 +1,8 @@
+#ifndef _resource_rc
+#define _resource_rc
+
+#include "resource.h"
+
+ IDB_BITMAP1       BITMAP         ".\\HD.bmp"
+
+#endif
